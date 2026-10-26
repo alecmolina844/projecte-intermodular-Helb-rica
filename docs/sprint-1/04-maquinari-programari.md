@@ -44,3 +44,20 @@ Aquesta relació recull tots els recursos identificats en el document [03 · Rec
 | Programa de registre de producció | Producció | 2 | Registre dels lots fabricats en els terminals de planta |
 | Programa de disseny i impressió d'etiquetes | Producció i Magatzem | 3 | Creació de les etiquetes amb lot, data i codi de barres |
 | Aplicació de gestió de magatzem | Magatzem i logística | 3 | Lectura de codis i moviments de mercaderia des dels terminals portàtils |
+| Antivirus i protecció d'equips | Tota l'empresa | 11 | Protecció dels 10 ordinadors i del servidor contra virus i atacs |
+| Programari de còpies de seguretat | Tota l'empresa | 1 | Programació i control de les còpies de seguretat al NAS |
+
+## 3. Comprovació de les quantitats
+
+**Ordinadors (10)**: 1 portàtil de Direcció + 2 d'Administració + 2 de Producció + 2 terminals de planta + 2 de Qualitat + 1 de Magatzem.
+
+**Llicències d'ofimàtica i correu (8)**: tots els ordinadors excepte els 2 terminals de planta, que només s'utilitzen per a registrar la producció.
+
+**Llicències d'ERP (7)**: Direcció (1), Administració (2), cap de producció (1), terminals de planta (2) i Magatzem (1).
+
+## 4. Justificació
+
+- **El maquinari s'ajusta a la plantilla**: només tenen ordinador propi els 10 llocs que el necessiten. Els 11 operaris de línia comparteixen els terminals de planta, i els mossos de magatzem fan servir els terminals portàtils.
+- **La traçabilitat condiciona molts recursos**: terminals de planta, lectors, impressores d'etiquetes i el programa de qualitat permeten seguir cada lot, tal com exigeixen la certificació IFS i els supermercats.
+- **Un ERP comú** evita que cada departament treballe amb dades diferents: la comanda que registra Administració la veuen Producció i Magatzem.
+- **La seguretat és bàsica**: antivirus en tots els equips, tallafocs a la xarxa, SAI i còpies de seguretat diàries.
