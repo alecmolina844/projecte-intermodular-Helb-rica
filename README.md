@@ -4,11 +4,11 @@
 
 ## Presentació del projecte
 
-**Helbérica, S.A.** és l'empresa fictícia que hem definit per al Projecte Intermodular. Està situada a **Xixona (l'Alacantí, Alacant)** i pertany a la indústria alimentària: fabrica **galletes, barquillos farcits i tauletes de xocolate** per a grans cadenes de supermercats, com a fabricant de marca de distribuïdor (marca blanca).
+**Helbérica, S.A.** és l'empresa real sobre la qual hem desenvolupat el Projecte Intermodular. Està situada a **Xixona (l'Alacantí, Alacant)** i pertany a la indústria alimentària: fabrica **galletes, barquillos farcits i tauletes de xocolate** per a grans cadenes de supermercats, com a fabricant de marca de distribuïdor (marca blanca).
 
 És una petita empresa de **23 treballadors**, amb dues instal·lacions (la fàbrica de galletes amb les oficines, i la planta de xocolates) que han d'estar connectades entre elles.
 
-> **Nota:** el projecte és un exercici acadèmic. Les dades de plantilla, facturació i organització són una simulació i no corresponen a dades oficials de cap empresa real.
+> **Nota:** el projecte és un exercici acadèmic. Les dades de facturació i alguns aspectes de l'organització són estimacions pròpies i no corresponen a dades oficials de l'empresa.
 
 En aquest repositori anirem documentant, sprint a sprint, la caracterització de l'empresa i la infraestructura TIC que necessita.
 
@@ -16,9 +16,9 @@ En aquest repositori anirem documentant, sprint a sprint, la caracterització de
 
 | Nom i cognoms | Usuari de GitHub |
 |---------------|------------------|
-| Alec Molina | [alecmolina844](https://github.com/alecmolina844) |
-| _Nom del company/a 2_ | _usuari_ |
-| _Nom del company/a 3_ | _usuari_ |
+| Alejandro Molina Pallarés | [alecmolina844](https://github.com/alecmolina844) |
+| Juan Avila Lozano | [Desconectado6741](https://github.com/Desconectado6741) |
+| Víctor Sempere Galera | [vsemperegalera-cmyk](https://github.com/vsemperegalera-cmyk) |
 
 ## Documentació
 
@@ -35,7 +35,7 @@ En aquest repositori anirem documentant, sprint a sprint, la caracterització de
 ## Estructura del repositori
 
 ```text
-projecte-intermodular-helberica/
+projecte-intermodular-Helb-rica/
 |
 |-- README.md
 |
@@ -48,6 +48,7 @@ projecte-intermodular-helberica/
 |       |-- 05-ods.md
 |
 |-- img/
+|   |-- organigrama.png
 ```
 
 ## Eines utilitzades
@@ -55,3 +56,5 @@ projecte-intermodular-helberica/
 - **GitHub**: control de versions i repositori col·laboratiu.
 - **Markdown**: redacció de la documentació.
 - **Visual Studio Code**: edició dels fitxers.
+- **Trello**: organització de les tasques del sprint (tauler Kanban).
+- **Ferramentes d'intel·ligència artificial**: suport en la redacció, revisada i verificada per l'equip.
