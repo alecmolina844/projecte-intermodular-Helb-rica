@@ -61,4 +61,4 @@ Les tasques del sprint s'organitzen en el tauler de Trello: [projecte-intermodul
 - **Markdown**: redacció de la documentació.
 - **Visual Studio Code**: edició dels fitxers.
 - **Trello**: organització de les tasques del sprint (tauler Kanban).
-- **Ferramentes d'intel·ligència artificial**: suport en la redacció, revisada i verificada per l'equip.
+- **Ferramentes d'intel·ligència artificial**: suport en la redacció, revisada i verificada per l'equip per a actualitzar el trello.
