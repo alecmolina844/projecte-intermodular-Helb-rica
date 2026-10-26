@@ -51,6 +51,10 @@ projecte-intermodular-Helb-rica/
 |   |-- organigrama.png
 ```
 
+## Planificació
+
+Les tasques del sprint s'organitzen en el tauler de Trello: [projecte-intermodular-Helbérica](https://trello.com/b/cwH0rzvD/projecte-intermodular-helb%C3%A9rica)
+
 ## Eines utilitzades
 
 - **GitHub**: control de versions i repositori col·laboratiu.
