@@ -2,7 +2,7 @@
 
 ## 1. Diagrama de xarxa
 
-![Diagrama de xarxa de Helbérica](../../../img/bloc-2/diagrama-xarxa.png)
+![Diagrama de xarxa de Helbérica](../../../img/diagrama-xarxa.png)
 
 ## 2. Visió general
 
